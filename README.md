@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Azure Devops, CI/CD**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PritamKundu](https://github.com/PritamKundu)
+- 👨‍💻 All of my projects are available at [https://github.com/prantakunduqa](https://github.com/prantakunduqa)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/pritam-kundu](https://www.linkedin.com/in/pritam-kundu)
 
