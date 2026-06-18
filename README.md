@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://www.behance.net/gallery/251315717/Brand-Image/modules/1458042907" alt="pritamkundu" /> </p>
+<p align="right"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/396615144354981.628b642e89fc6.jpg" alt="pritamkundu" /> </p>
 
 <h1 align="center">Hi 👋, I'm Pranta Kundu</h1>
 <h3 align="center">A passionate software test automation engineer from bangladesh</h3>
