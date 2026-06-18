@@ -1,4 +1,4 @@
-<p align="right"> <img src="/Pranta_Kundu_SQA_software_enginner.png" alt="pritamkundu" /> </p>
+<p align="right"> <img src="/Pranta_Kundu_SQA_software_enginner.png" alt="pritamkundu" width="400"/> </p>
 
 <h1 align="center">Hi 👋, I'm Pranta Kundu</h1>
 <h3 align="center">A passionate software test automation engineer from bangladesh</h3>
