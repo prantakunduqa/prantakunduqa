@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prantakunduqa](https://github.com/prantakunduqa)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/pritam-kundu](https://www.linkedin.com/in/pritam-kundu)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/pritam-kundu](https://www.linkedin.com/in/pritam-kundu) | [https://medium.com/@pritamkundu.pk5](https://medium.com/@pritamkundu.pk5)
 
 - 💬 Ask me about **Java, Python, Javascript, Selenium, Playwright, WedriverIO, Cucumber, TestNG, Appium, Cypress, JMeter, Postman, RestAssured**
 
