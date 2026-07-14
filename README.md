@@ -22,10 +22,10 @@
 <table>
   <tr>
     <td><a href="https://wa.me/8801743739440" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a></td>
-    <td><a href="https://twitter.com/pritam_kundu1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritam_kundu1" height="30" width="40" /></a></td>
     <td><a href="https://linkedin.com/in/pritam-kundu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-kundu" height="30" width="40" /></a></td>
-    <td><a href="https://stackoverflow.com/users/9450186/pranta-kundu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9450186/pranta-kundu" height="30" width="40" /></a></td>
     <td><a href="https://fb.com/pritamkundu.pranto" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pritamkundu.pranto" height="30" width="40" /></a></td>
+    <td><a href="https://twitter.com/pritam_kundu1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritam_kundu1" height="30" width="40" /></a></td>
+    <td><a href="https://stackoverflow.com/users/9450186/pranta-kundu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9450186/pranta-kundu" height="30" width="40" /></a></td>
     <td><a href="https://www.behance.net/pritamkund078c" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="pritamkund078c" height="30" width="40" /></a></td>
   </tr>
 </table>
