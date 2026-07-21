@@ -66,23 +66,23 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/pritamkundu">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritamkundu&theme=react&hide=css&layout=compact" 
+      <a href="https://github.com/pritamkunduqa">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritamkunduqa&theme=react&hide=css&layout=compact" 
              alt="Top Languages" 
              width="100%"/>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/pritamkundu">
+      <a href="https://github.com/pritamkunduqa">
         <!-- FIXED: Changed 'PritamKundu' to 'pritamkundu' (lowercase p) -->
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pritamkundu&theme=react" 
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pritamkunduqa&theme=react" 
              alt="GitHub Stats" 
              width="100%"/>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/pritamkundu">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritamkundu&theme=react&hide_border=true" 
+      <a href="https://github.com/pritamkunduqa">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritamkunduqa&theme=react&hide_border=true" 
              alt="GitHub Streak" 
              width="100%"/>
       </a>
