@@ -4,8 +4,8 @@
 <h3 align="center">A passionate software test automation engineer from bangladesh</h3>
 
 <p align="left">
-  <a href="https://x.com/pritam_kundu1">
-    <img src="https://badgen.net/badge/X/@pritam_kundu1/000?icon=twitter" />
+  <a href="https://medium.com/@pritamkundu.pk5" target="_blank">
+    <img src="https://img.shields.io/badge/%40pritamkundu.pk5-F5F5F5?style=for-the-badge&label=Medium&labelColor=12100E&logo=medium&logoColor=white" alt="Medium Profile" />
   </a>
 </p>
 
