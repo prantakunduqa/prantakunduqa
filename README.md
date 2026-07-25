@@ -26,27 +26,26 @@
 
 <h3 align="center">Connect with me</h3>
 
+<h3 align="center">🌐 Connect with Me</h3>
+
 <p align="center">
-  <a href="https://wa.me/8801743739440" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="35" width="35" />
+  <a href="https://wa.me/8801743739440">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/pritam-kundu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
+  <a href="https://linkedin.com/in/pritam-kundu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://fb.com/pritamkundu.pranto" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="35" />
+  <a href="https://fb.com/pritamkundu.pranto">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://x.com/pritam_kundu1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="35" width="35" />
+  <a href="https://x.com/pritam_kundu1">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/9450186/pranta-kundu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="35" width="35" />
+  <a href="https://stackoverflow.com/users/9450186/pranta-kundu">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
-  <a href="https://www.behance.net/pritamkund078c" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="35" width="35" />
-  </a>
-  <a href="https://medium.com/@pritamkundu.pk5" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium" alt="Medium" height="35" width="35" />
+  <a href="https://medium.com/@pritamkundu.pk5">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
 <br>
