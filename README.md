@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://x.com/pritam_kundu1" target="_blank">
-    <strong>@pritam_kundu1</strong>&nbsp;
+    @pritam_kundu1
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X Profile" />
   </a>
 </p>
