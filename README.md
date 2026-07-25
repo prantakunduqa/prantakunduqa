@@ -24,8 +24,6 @@
 
 <div align="center">
 
-<h3 align="center">Connect with me</h3>
-
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
