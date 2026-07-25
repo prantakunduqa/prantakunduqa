@@ -3,7 +3,11 @@
 <h1 align="center">Hi 👋, I'm Pranta Kundu</h1>
 <h3 align="center">A passionate software test automation engineer from bangladesh</h3>
 
-<p align="left"> <a href="https://twitter.com/pritam_kundu1" target="blank"><img src="https://img.shields.io/twitter/follow/pritam_kundu1?logo=twitter&style=for-the-badge" alt="pritam_kundu1" /></a> </p>
+<p align="left">
+  <a href="https://x.com/pritam_kundu1" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/pritam_kundu1?style=for-the-badge" alt="Follow on X" />
+  </a>
+</p>
 
 - 🔭 I’m currently working as a **Senior Software Engineer (Test Automation) at Arogga LTD.**
 
