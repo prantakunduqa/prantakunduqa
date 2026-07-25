@@ -24,26 +24,31 @@
 
 <div align="center">
 
-<h3>Connect with me</h3>
+<h3 align="center">Connect with me</h3>
 
-<table>
-  <tr>
-    <td><a href="https://wa.me/8801743739440" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a></td>
-
-    <td><a href="https://linkedin.com/in/pritam-kundu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
-
-    <td><a href="https://fb.com/pritamkundu.pranto" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a></td>
-
-    <td><a href="https://x.com/pritam_kundu1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a></td>
-
-    <td><a href="https://stackoverflow.com/users/9450186/pranta-kundu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a></td>
-
-    <td><a href="https://www.behance.net/pritamkund078c" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" /></a></td>
-
-    <td><a href="https://medium.com/@pritamkundu.pk5" target="_blank"><img src="https://cdn.simpleicons.org/medium/000000" alt="Medium" height="30" width="40" /></a></td>
-  </tr>
-</table>
-
+<p align="center">
+  <a href="https://wa.me/8801743739440" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="35" width="35" />
+  </a>
+  <a href="https://linkedin.com/in/pritam-kundu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
+  </a>
+  <a href="https://fb.com/pritamkundu.pranto" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="35" />
+  </a>
+  <a href="https://x.com/pritam_kundu1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="35" width="35" />
+  </a>
+  <a href="https://stackoverflow.com/users/9450186/pranta-kundu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="35" width="35" />
+  </a>
+  <a href="https://www.behance.net/pritamkund078c" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="35" width="35" />
+  </a>
+  <a href="https://medium.com/@pritamkundu.pk5" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium" alt="Medium" height="35" width="35" />
+  </a>
+</p>
 <br>
 
 <h3>Languages and Tools</h3>
