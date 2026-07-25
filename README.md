@@ -4,8 +4,8 @@
 <h3 align="center">A passionate software test automation engineer from bangladesh</h3>
 
 <p align="left">
-  <a href="https://x.com/pritam_kundu1" target="_blank">
-    <img src="https://img.shields.io/badge/X-%40pritam__kundu1-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile"/>
+  <a href="https://x.com/pritam_kundu1">
+    <img src="https://badgen.net/badge/X/@pritam_kundu1/000?icon=twitter" />
   </a>
 </p>
 
