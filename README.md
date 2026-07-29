@@ -9,7 +9,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working as a **Senior Software Engineer (Test Automation) at Arogga LTD.**
+- 🔭 I’m currently working as a **Senior Software QA Engineer (Test Automation) at Arogga LTD.**
 
 - 🌱 I’m currently learning **Azure Devops, CI/CD**
 
