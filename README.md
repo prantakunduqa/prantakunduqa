@@ -52,7 +52,7 @@
   </tr>
 
   <tr>
-    <td><img src="https://testng.org/img/testng.png" alt="TestNG" width="40" height="40"/></td>
+    <td><img src="https://img.shields.io/badge/TestNG-FF6C37?style=flat-square" alt="TestNG"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" alt="Mocha" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></td>
